@@ -1,0 +1,17 @@
+# .gitignore file for ASP.NET Core projects
+
+# Visual Studio Code and Visual Studio generated files
+.vscode/
+.vs/
+
+# Build and publish output
+/bin/
+/obj/
+/publish/
+
+# User-specific files
+*.user
+
+# OS-specific files
+Thumbs.db
+.DS_Store
